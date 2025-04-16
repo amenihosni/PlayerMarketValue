@@ -1,4 +1,3 @@
-readme_content = """
 # Player Market Value Prediction
 
 📊 **A project for predicting football player market value based on various performance metrics and other features using machine learning.**
